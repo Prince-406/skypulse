@@ -23,7 +23,7 @@ A responsive, real-time weather dashboard application built to deliver precise f
 
 ## ⚙️ Local Setup
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/skypulse.git](https://github.com/YOUR_GITHUB_USERNAME/skypulse.git)
+git clone https://github.com/Prince-406/skypulse.git
 cd skypulse
 npm install
 npm run dev
